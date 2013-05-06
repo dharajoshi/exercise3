@@ -1,0 +1,5 @@
+Hi! My name is Ricardo Rubio ("Rick").
+
+I am in the 8th Git-GitHub batch of RubyLearning.org
+
+I used nano to write this text file.
