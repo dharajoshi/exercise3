@@ -1,0 +1,11 @@
+Hi, I'm an automation developer at IBM and our team is using git.
+I love music, woods, running, skiing, playing flute, guitar, piano. 
+I host a jam session every year at Cranberry Lake called 
+Cranberry Jam and race at Cranberry Scram. 
+I also love Ruby and Rails so in my spare time when I'm not
+coding or playing music or woodsing I'm playing with code related to music 
+and camping.
+My RoR applications for campground administration and music festival 
+volunteering are at cranberryjam.ca
+I live in Ottawa with my son Nick, 24, husband Bill (married last summer at
+CranberryJam), our cat Crystal and parrot Mac.
