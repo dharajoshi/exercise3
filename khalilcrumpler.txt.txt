@@ -1,1 +1,0 @@
-Hi, I'm an aspiring programmer and I'm currently learning Ruby.
